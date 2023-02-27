@@ -1,0 +1,28 @@
+----------------------------------------------------------------
+
+Flow:
+1. Login with Spotify: Spotify API and Spotify-Web-API-Node
+2. Search Songs/Artists
+3. Select Songs
+4. Show lyrics
+5. Play song
+
+----------------------------------------------------------------
+
+Components:
+1. app.js
+2. login.js > route to app.js?
+3. search.js 
+4. searchResults.js
+4. lyrics.js
+5. player.js
+
+----------------------------------------------------------------
+
+Spotify-Web-API-Node
+* Supply an access token for all requests to the Spotify API
+
+----------------------------------------------------------------
+
+React-Bootstrap
+* HTML and CSS-based templates for forms, buttons and many other components that are now compatible with React
